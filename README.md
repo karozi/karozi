@@ -1,4 +1,4 @@
-<img src="banner.jpg" alt="Karo Zieminski - Senior AI Product Manager, Researcher, and Community Host. Author of Product with Attitude, the Substack Bestseller for AI builders and vibe coders. Turning everyone into builders. Testing before tweeting. Building with, not for." width="100%">
+<img src="banner.gif" alt="Karo Zieminski - Senior AI Product Manager, Researcher, and Community Host. Author of Product with Attitude, the Substack Bestseller for AI builders and vibe coders. Turning everyone into builders. Testing before tweeting. Building with, not for." width="100%">
 
 # Karo Zieminski
 
