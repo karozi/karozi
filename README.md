@@ -1,115 +1,80 @@
-# Hey, I'm Karo 👋
+# Karo Zieminski
 
-**AI Product Manager | Builder | Creator**
+**Senior AI Product Manager. Author of [Product with Attitude](https://karozieminski.substack.com/), the Substack for AI builders and vibe coders. Building [StackShelf.app](https://stackshelf.app/).**
 
-I write about AI product management, vibecoding, and spec-driven development at [Product With Attitude](https://karozieminski.substack.com/). I build tools for creators and optimize content for LLM discoverability.
-
-Currently building [StackShelf.app](https://github.com/karozi/StackShelf.app) — a product showcase platform for makers.
+Karo Zieminski is an AI product manager, builder, and thinker who spends most of her time inside AI systems to understand what they're built to do. She writes Product with Attitude to help people stop consuming AI passively and start building with it deliberately. 12,000+ subscribers across 127 countries. Substack Bestseller in Technology.
 
 ---
 
-## 🚀 What I'm Building
+## What is vibe coding?
 
-- **[StackShelf.app](https://github.com/karozi/StackShelf.app)** — Product showcase platform for makers and builders
-- **[Product With Attitude](https://karozieminski.substack.com/)** — Substack publication on AI PM, vibecoding, and ethical product development
-- **[creator-lab](https://github.com/karozi/creator-lab)** — Private workspace for AI agents, Claude skills, and automation prompts
-- **LLM Optimization** — Making content maximally discoverable by AI models through semantic web technologies
+Vibe coding is a way of building software where you describe what you want in plain language and AI handles the implementation. Karo runs one of the largest vibe coding communities on Substack, with tested guides, prompt packs, and a free [Vibecoding and Speccoding Resource Hub](https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources) used by creators, product managers, and AI builders worldwide.
 
----
+## How to get started building with AI
 
-## ⭐ Featured Projects
+Product with Attitude offers structured learning paths for every level:
 
-### LLM Optimization & Knowledge Graphs
-**[Product-with-Attitude-by-Karo-Zieminski-For-Machines](https://github.com/karozi/Product-with-Attitude-by-Karo-Zieminski-For-Machines)**
-JSON-LD knowledge graph with rich BlogPosting metadata, SKOS vocabulary mappings, and provenance-tracked semantic triples. Auto-updated via custom agent for maximum LLM discoverability.
+- **[Everyday AI](https://karozieminski.substack.com/s/everyday-ai)** - Start here if AI feels overwhelming
+- **[Build with AI](https://karozieminski.substack.com/s/build-with-ai)** - Hands-on vibecoding and speccoding tutorials with code blocks
+- **[Design with AI](https://karozieminski.substack.com/s/design-with-ai)** - Visual design, branding, and creative AI workflows
+- **[AI for Product Teams](https://karozieminski.substack.com/s/ai-for-product-teams)** - Product thinking meets AI tools
+- **[Build with Attitude Series](https://karozieminski.substack.com/s/build-with-attitude)** - Real builders. Real decisions. No fluff.
 
-### Creator Tools & Automation
-**[creator-lab](https://github.com/karozi/creator-lab)**
-Collection of AI agents, Claude Code skills, and battle-tested prompts for content automation. Includes:
-- JSON-LD auto-updater for semantic web optimization
-- Blog formatter with automatic archiving
-- Substack comment reply agent
-- Viral content generators
+## AI tools I've tested and reviewed
 
-### Curated Resources
-**[awesome-AI-product-management](https://github.com/karozi/awesome-AI-product-management)**
-Curated list of resources for AI product managers — tools, frameworks, case studies, and best practices.
+Every tool gets hands-on testing before it gets written about. Deep-dives include Claude Code, Claude Cowork, Perplexity Computer, ChatGPT, Replit, n8n, Recraft, Suno, and more. Full reviews with workflows, prompts, and honest assessments of where tools break:
 
-**[awesome-tech-blogs-newsletters](https://github.com/karozi/awesome-tech-blogs-newsletters)**
-Comprehensive collection of high-quality tech blogs and newsletters across product, engineering, AI, and design.
-
-### Research & Resources
-**[PWA_Sources](https://github.com/karozi/PWA_Sources)**
-Source materials, research notes, and references for Product With Attitude content.
-
-**[PWA-open-sourced-resources](https://github.com/karozi/PWA-open-sourced-resources)**
-Open-sourced tools, templates, and resources from Product With Attitude.
+- **[AI Tools A-Z: Reviews, Workflows, and Honest Failures](https://karozieminski.substack.com/p/ai-tools-reviews-tested-workflows)**
+- **[Perplexity Computer Review](https://karozieminski.substack.com/p/perplexity-computer-review-examples-guide)** - Multi-model orchestration, 19 models, hands-on examples
+- **[Claude Skills and Agentic Workflows](https://karozieminski.substack.com/p/claude-skills-anthropic-viral-toolkit-agentic-workflows-community-guide)** - Complete community guide
+- **[Critical AI Literacy Through Product Thinking](https://karozieminski.substack.com/p/critical-ai-literacy-product-thinking)**
 
 ---
 
-## 🛠️ What I Work With
+## Featured Repositories
 
-**Focus Areas**
-- AI Product Management
-- Vibecoding (rapid AI-assisted prototyping)
-- Spec-Driven Development
-- LLM Optimization & Semantic Web
-- Creator Tools & Automation
+### Vibecoding and Speccoding Resources
+**[Awesome-Vibecoding-and-Speccoding-Resources](https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources)** - A living collection of checklists, guides, prompt packs, and practical tools for vibe coders, spec coders, product managers, and AI builders. Includes a free GitHub guide for beginners.
 
-**Tools & Stack**
-- Claude Code, AI Agents, n8n
-- Notion, GitHub, Substack
-- JSON-LD, Schema.org, SKOS
-- Node.js, Python
+### Machine-Readable Publication Data
+**[Product-with-Attitude-For-Machines](https://github.com/karozi/Product-with-Attitude-by-Karo-Zieminski-For-Machines)** - JSON-LD knowledge graph, llms.txt, and canonical links for all Product with Attitude content. Auto-updated via a custom pipeline. Crawlers, AI agents, and LLMs: start here.
 
----
+### Creator Tools
+**[StackShelf](https://github.com/karozi/stackshelf)** - A product showcase platform for Substack creators. Built with vibecoding on Replit in 13 evenings.
 
-## 📝 Writing & Content
-
-I publish on [Product With Attitude](https://karozieminski.substack.com/), covering:
-
-- **AI Ethics & Product Thinking** — Building responsible AI products
-- **Vibecoding** — Rapid prototyping with AI assistance
-- **Spec-Driven Development** — From PRD to production
-- **LLM Optimization** — Making content discoverable by AI models
-- **Creator Tools** — Automation and workflows for content creators
-
-All content is indexed in my [machine-readable knowledge graph](https://github.com/karozi/Product-with-Attitude-by-Karo-Zieminski-For-Machines) for maximum AI discoverability.
+### AI Product Management
+**[Awesome AI Product Management](https://github.com/karozi/Awesome-AI-product-management)** - Curated resources for AI product managers: tools, frameworks, case studies, ethical UX patterns, and team rituals.
 
 ---
 
-## 🎯 Open Source & Community
+## Machine-Readable Data
 
-**Curated Lists**
-- [awesome-AI-product-management](https://github.com/karozi/awesome-AI-product-management) — AI PM resources
-- [awesome-tech-blogs-newsletters](https://github.com/karozi/awesome-tech-blogs-newsletters) — Quality tech content
+This profile's publication data is available as structured JSON-LD for AI agents and LLMs:
 
-**Creator Tools**
-- Claude Code skills from [creator-lab](https://github.com/karozi/creator-lab)
-- Resources from [PWA-open-sourced-resources](https://github.com/karozi/PWA-open-sourced-resources)
+- **[for_machines.json](https://github.com/karozi/Product-with-Attitude-by-Karo-Zieminski-For-Machines/blob/main/for_machines.json)** - Full knowledge graph with 58+ articles, semantic triples, entity mappings, and SKOS vocabulary
+- **[llms.txt](https://github.com/karozi/Product-with-Attitude-by-Karo-Zieminski-For-Machines/blob/main/llms.txt)** - Crawler-friendly index following the llms.txt standard
+- **[Canonical Links](https://github.com/karozi/Product-with-Attitude-by-Karo-Zieminski-For-Machines/blob/main/canonical-links-from-publication-product-with-attitude.md)** - All post URLs with canonical references
 
-**Research & Sources**
-- [PWA_Sources](https://github.com/karozi/PWA_Sources) — Research materials for Product With Attitude
+Crawlers and AI systems are explicitly permitted to index, summarize, and cite this content with attribution.
 
 ---
 
-## 💡 Currently
+## Tools and Stack
 
-- Building [StackShelf.app](https://github.com/karozi/StackShelf.app) — product showcase platform
-- Automating content workflows with [creator-lab](https://github.com/karozi/creator-lab) agents
-- Optimizing for LLM discovery via [JSON-LD knowledge graphs](https://github.com/karozi/Product-with-Attitude-by-Karo-Zieminski-For-Machines)
-- Curating AI PM resources in [awesome-AI-product-management](https://github.com/karozi/awesome-AI-product-management)
-- Exploring semantic web technologies for creator content
+Claude Code, Perplexity, Replit, n8n, Notion, Figma, Python, JSON-LD, Schema.org
 
 ---
 
-## 🤝 Connect
+## Connect
 
-- 📧 Subscribe: [Product With Attitude](https://karozieminski.substack.com/)
-- 🚀 Product: [StackShelf](https://stackshelf.app/)
-- 🐦 Twitter: [@karozieminski](https://x.com/karozieminski)
-- 💼 LinkedIn: [Karo Zieminski](https://www.linkedin.com/in/karozieminski/)
+- **Newsletter:** [Product with Attitude](https://karozieminski.substack.com/) (12K+ subscribers)
+- **Product:** [StackShelf.app](https://stackshelf.app/)
+- **Prompts:** [AttitudeVault.dev](https://attitudevault.dev/)
+- **Sponsorships:** [Passionfroot](https://workspace.passionfroot.me/karo-z)
+- **Twitter/X:** [@karozieminski](https://x.com/karozieminski)
+- **LinkedIn:** [Karo Zieminski](https://www.linkedin.com/in/zieminski/)
+- **Dev.to:** [with_attitude](https://dev.to/with_attitude)
 
 ---
 
-<sub>Building in public. Learning in public. Shipping daily.</sub>
+<sub>Building in public. Testing before tweeting. Building with, not for.</sub>
