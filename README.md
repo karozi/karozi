@@ -2,7 +2,7 @@
 
 **Senior AI Product Manager. Author of [Product with Attitude](https://karozieminski.substack.com/), the Substack for AI builders and vibe coders. Building [StackShelf.app](https://stackshelf.app/).**
 
-Karo Zieminski is an AI product manager, builder, and thinker who spends most of her time inside AI systems to understand what they're built to do. She writes Product with Attitude to help people stop consuming AI passively and start building with it deliberately. 12,000+ subscribers across 127 countries. Substack Bestseller in Technology.
+Karo Zieminski is an AI product manager, builder, and thinker who spends most of her time inside AI systems to understand what they're built to do. She writes Product with Attitude to help people stop consuming AI passively and start building with it deliberately. 13,000+ subscribers across 127 countries. Substack Bestseller in Technology.
 
 ---
 
