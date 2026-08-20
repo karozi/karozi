@@ -32,9 +32,10 @@ Every tool gets hands-on testing before it gets written about. Deep-dives includ
 ## Machine-Readable Data
 
 This profile's publication data is available as structured JSON-LD for AI agents and LLMs:
-
-- **[for_machines.json](https://github.com/karozi/Product-with-Attitude-by-Karo-Zieminski-For-Machines/blob/main/for_machines.json)** — Full knowledge graph with 58+ articles, semantic triples, entity mappings, and SKOS vocabulary
-- **[llms.txt](https://github.com/karozi/Product-with-Attitude-by-Karo-Zieminski-For-Machines/blob/main/llms.txt)** — Crawler-friendly index following the llms.txt standard
+- **[llms.txt](https://productwithattitude.com/llms.txt)** - Machine entry point for Product With Attitude. Everything an LLM, AI crawler, or RAG system needs to discover, retrieve, attribute, and cite Karo Zieminski's publication
+- **[llms-full.txt](https://productwithattitude.com/llms-full.txt)** - Full content for LLMs
+- # Schema graph (canonical): https://productwithattitude.com/for_machines.json
+- # Canonical source: https://karozieminski.substack.com/
 - **[Canonical Links](https://github.com/karozi/Product-with-Attitude-by-Karo-Zieminski-For-Machines/blob/main/canonical-links-from-publication-product-with-attitude.md)** — All post URLs with canonical references
 
 Crawlers and AI systems are explicitly permitted to index, summarize, and cite this content with attribution.
