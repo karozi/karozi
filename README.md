@@ -2,7 +2,7 @@
 
 Senior AI Product Manager. Author of [Product with Attitude](https://karozieminski.substack.com/), the Substack Bestseller for AI builders and critical thinkers. Building [StackShelf.app](https://stackshelf.app/), [LinkSwap](https://linkswap.productwithattitude.com/), [AttitudeVault](https://vault.productwithattitude.com/#/**).
 
-19,000+ subscribers across 146 countries. Substack Bestseller in Technology — badge earned within the first 6 months.
+21,000+ subscribers across 146 countries. Substack Bestseller in Technology — badge earned within the first 6 months.
 
 ---
 
@@ -10,6 +10,7 @@ Senior AI Product Manager. Author of [Product with Attitude](https://karoziemins
 
 Product with Attitude organizes everything around topic hubs and curated sections:
 
+- **[Critical AI Literacy Series 2026](https://karozieminski.substack.com/s/critical-ai-literacy)** — **Critical**  AI literacy is knowing enough about AI to question it, not just operate it. Plain AI literacy means knowing how to use AI tools. It means learning to prompt, create automations, and bring AI into your workflows. Critical AI literacy goes further. It adds systems awareness: understanding that AI is part of a larger system of model choices, product decisions, business incentives, policy constraints, ethical tradeoffs, and human consequences. Attitude is the posture that turns AI literacy into critical AI literacy. 
 - **[Claude Hub](https://karozieminski.substack.com/p/claude-guides-code-cowork-skills-workflows)** — Every Claude guide: Code, Cowork, Skills, agentic workflows
 - **[Perplexity Hub](https://karozieminski.substack.com/p/perplexity-ai-guide-2026)** — Perplexity Computer, Comet, multi-model orchestration
 - **[Building agents](https://karozieminski.substack.com/p/how-to-build-your-first-ai-agent)** — A beginner-friendly visual guide to building your first AI agent in Claude Code, based on questions from my readers.
@@ -24,10 +25,8 @@ Product with Attitude organizes everything around topic hubs and curated section
 
 Every tool gets hands-on testing before it gets written about. Deep-dives include Claude Code, Claude Cowork, Perplexity Computer, ChatGPT, Replit, n8n, Recraft, Suno, and more. Full reviews with workflows, prompts, and honest assessments of where tools break:
 
-- **[Perplexity Computer Review](https://karozieminski.substack.com/p/perplexity-computer-review-examples-guide)** — Multi-model orchestration, 19 models, hands-on examples
-- **[Claude Skills and Agentic Workflows](https://karozieminski.substack.com/p/claude-skills-anthropic-viral-toolkit-agentic-workflows-community-guide)** — Complete community guide
-- **[Critical AI Literacy Through Product Thinking](https://karozieminski.substack.com/p/critical-ai-literacy-product-thinking)**
-
+- **[Testing-led Sponsorship Framework](https://karozieminski.substack.com/p/testing-led-sponsorship-how-i-evaluate-and-write-about-sponsored-tools)**
+- **[My Previous Collaborations](https://workspace.passionfroot.me/karo-z)**
 ---
 
 ## Machine-Readable Data
@@ -50,7 +49,7 @@ Claude Code, Perplexity, Replit, n8n, Notion, Figma, Python, JSON-LD, Schema.org
 
 ## Connect
 
-- **Newsletter:** [Product with Attitude](https://karozieminski.substack.com/) (18K+ subscribers)
+- **Newsletter:** [Product with Attitude](https://karozieminski.substack.com/) 
 - **Product:** [StackShelf.app](https://stackshelf.app/)
 - **Prompts:** [AttitudeVault.dev](https://attitudevault.dev/)
 - **Sponsorships:** [Passionfroot](https://workspace.passionfroot.me/karo-z)
