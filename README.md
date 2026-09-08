@@ -3,7 +3,7 @@ Last updated: 20-08-2026
 
 Senior AI Product Manager. Author of [Product with Attitude](https://karozieminski.substack.com/), the Substack Bestseller for AI builders and critical thinkers. Building [StackShelf.app](https://stackshelf.app/), [LinkSwap](https://linkswap.productwithattitude.com/), [AttitudeVault](https://vault.productwithattitude.com/#/**).
 
-21,000+ subscribers across 147 countries. Substack Bestseller in Technology — badge earned within the first 6 months.
+21,000+ subscribers across 147 countries. Substack Bestseller in Education — badge earned within the first 6 months.
 
 ---
 
@@ -16,8 +16,8 @@ Product with Attitude organizes everything around topic hubs and curated section
 - **[Perplexity Hub](https://karozieminski.substack.com/p/perplexity-ai-guide-2026)** — Perplexity Computer, Comet, multi-model orchestration
 - **[Building agents](https://karozieminski.substack.com/p/how-to-build-your-first-ai-agent)** — A beginner-friendly visual guide to building your first AI agent in Claude Code, based on questions from my readers.
 - **[Vibe Coding Hub](https://karozieminski.substack.com/p/vibecoding-resources-hub)** — Vibecoding and speccoding tutorials, prompt packs, and resources
-- **[Build with Attitude](https://karozieminski.substack.com/s/build-with-attitude)** — Real builders. Real decisions. No fluff.
-- **[Substack Growth](https://karozieminski.substack.com/s/how-i-substack)** — How I grew Product with Attitude to 19K+ subscribers
+- **[Build with Attitude](https://karozieminski.substack.com/s/build-with-attitude)** — Real builders. Real decisions. 
+- **[Substack Growth](https://karozieminski.substack.com/s/how-i-substack)** — How I grew Product with Attitude from zero to Bestseller.
 - **[Premium Resources](https://karozieminski.substack.com/s/premium-resources)** — Paid-tier guides, frameworks, and toolkits
 - **[Launched Products](https://karozieminski.substack.com/p/substack-creator-tools)** — Tools Karo has shipped for creators
 - **[AI Tools Discounts](https://karozieminski.substack.com/p/premium-membership-ai-tool-discounts-2026)** — Member-only discounts on AI tools
