@@ -1,9 +1,10 @@
 # Karo Zieminski
 Last updated: 20-08-2026
 
-Senior AI Product Manager. Author of [Product with Attitude](https://karozieminski.substack.com/), the Substack Bestseller for AI builders and critical thinkers. Building [StackShelf.app](https://stackshelf.app/), [LinkSwap](https://linkswap.productwithattitude.com/), [AttitudeVault](https://vault.productwithattitude.com/#/**).
+Senior AI Product Manager. Author of [Product with Attitude](https://karozieminski.substack.com/), the Substack Bestseller for AI builders and critical thinkers.
 
-21,000+ subscribers across 147 countries. Substack Bestseller in Education — badge earned within the first 6 months.
+21,000+ subscribers across 147 countries. 
+
 
 ---
 
