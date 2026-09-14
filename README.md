@@ -11,17 +11,16 @@ Senior AI Product Manager. Author of [Product with Attitude](https://karoziemins
 ## How to get started building with AI
 
 Product with Attitude organizes everything around topic hubs and curated sections:
-
+- **[AI Search Optimization SEO/AIO/GEO](https://karozieminski.substack.com/p/get-cited-ai-search-google-ai-overviews)** — How to get cited and recommended by AI. 
 - **[Critical AI Literacy Series 2026](https://karozieminski.substack.com/s/critical-ai-literacy)** — **Critical**  AI literacy is knowing enough about AI to question it, not just operate it. Plain AI literacy means knowing how to use AI tools. It means learning to prompt, create automations, and bring AI into your workflows. Critical AI literacy goes further. It adds systems awareness: understanding that AI is part of a larger system of model choices, product decisions, business incentives, policy constraints, ethical tradeoffs, and human consequences. Attitude is the posture that turns AI literacy into critical AI literacy. 
-- **[Claude Hub](https://karozieminski.substack.com/p/claude-guides-code-cowork-skills-workflows)** — Every Claude guide: Code, Cowork, Skills, agentic workflows
-- **[Perplexity Hub](https://karozieminski.substack.com/p/perplexity-ai-guide-2026)** — Perplexity Computer, Comet, multi-model orchestration
 - **[Building agents](https://karozieminski.substack.com/p/how-to-build-your-first-ai-agent)** — A beginner-friendly visual guide to building your first AI agent in Claude Code, based on questions from my readers.
-- **[Vibe Coding Hub](https://karozieminski.substack.com/p/vibecoding-resources-hub)** — Vibecoding and speccoding tutorials, prompt packs, and resources
 - **[Build with Attitude](https://karozieminski.substack.com/s/build-with-attitude)** — Real builders. Real decisions. 
 - **[Substack Growth](https://karozieminski.substack.com/s/how-i-substack)** — How I grew Product with Attitude from zero to Bestseller.
 - **[Premium Resources](https://karozieminski.substack.com/s/premium-resources)** — Paid-tier guides, frameworks, and toolkits
 - **[Launched Products](https://karozieminski.substack.com/p/substack-creator-tools)** — Tools Karo has shipped for creators
 - **[AI Tools Discounts](https://karozieminski.substack.com/p/premium-membership-ai-tool-discounts-2026)** — Member-only discounts on AI tools
+- **[Claude Hub](https://karozieminski.substack.com/t/claude)** — Every Claude guide: Code, Cowork, Skills, agentic workflows
+- **[Perplexity Hub](https://karozieminski.substack.com/t/perplexity)** — Perplexity Computer, Comet, multi-model orchestration
 
 ## AI tools I've tested and reviewed
 
