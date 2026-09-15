@@ -29,6 +29,46 @@ Every tool gets hands-on testing before it gets written about. Deep-dives includ
 - **[My Previous Collaborations](https://workspace.passionfroot.me/karo-z)**
 ---
 
+## Original Frameworks
+
+Frameworks I've built through my work with AI, and where each one lives. 
+
+**AI-Assisted Craft (2026)**
+
+The missing category between human-made and AI-made. Two axes: who produced the substance, and how much craft the work shows. You set the intention and the standard, then direct how it gets made. AI gets a defined supporting role.
+
+ → [Read the origin post](https://karozieminski.substack.com/p/ai-assisted-craft-vs-ai-slop?utm_source=github&utm_medium=readme&utm_campaign=frameworks)
+ 
+**Minimum Product Sanity (2025)**
+
+A pre-launch framework for product teams shipping AI. Most teams have a Definition of Done. Almost none have a Definition of Sane to Ship. MPS surfaces predictable failures, the ones born from questions nobody asked, before they become headlines.
+
+ → [Read the origin post](https://karozieminski.substack.com/p/minimum-product-sanity-the-framework-for-product-teams-shipping-ai?utm_source=github&utm_medium=readme&utm_campaign=frameworks)
+
+**The Context Pyramid (2026)**
+
+A four-layer framework for AI agent context. The layers are Identity, Knowledge, State, and Task. It stops prompts from collapsing under their own weight when you scale from single tasks to full agentic workflows.
+
+ → [Explore the framework](https://productwithattitude.com/frameworks/context-pyramid?utm_source=github&utm_medium=readme&utm_campaign=frameworks
+)
+
+**AI with Attitude (2025)**
+
+A posture for practitioners and builders that moves you from plain AI literacy to critical AI literacy. Plain literacy teaches you to operate the tool. Attitude teaches you to notice what the tool is doing to you while you do it.
+
+ → [Read the origin post](https://karozieminski.substack.com/p/critical-ai-literacy-ai-with-attitude?utm_source=github&utm_medium=readme&utm_campaign=frameworks)
+
+
+**The Builder-Parent Paradox (2026)**
+  
+The tension of helping build AI systems while raising children who will inherit their consequences. The core claim is that inside access creates responsibility, not certainty.
+
+ → [Read the origin post](https://karozieminski.substack.com/p/builder-parent-paradox?utm_source=github&utm_medium=readme&utm_campaign=frameworks)
+
+
+---
+
+
 ## Machine-Readable Data
 
 This profile's publication data is available as structured JSON-LD for AI agents and LLMs:
