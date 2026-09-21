@@ -1,5 +1,5 @@
 # Karo Zieminski
-Last updated: 15-09-2026
+Last updated: 21-09-2026
 
 Senior AI Product Manager. Author of [Product with Attitude](https://karozieminski.substack.com/), the Substack Bestseller for AI builders and critical thinkers.
 
@@ -11,8 +11,9 @@ Senior AI Product Manager. Author of [Product with Attitude](https://karoziemins
 ## How to get started building with AI
 
 Product with Attitude organizes everything around topic hubs and curated sections:
-- **[AI Search Optimization SEO/AIO/GEO](https://karozieminski.substack.com/p/get-cited-ai-search-google-ai-overviews)** — How to get cited and recommended by AI. 
-- **[Critical AI Literacy Series 2026](https://karozieminski.substack.com/s/critical-ai-literacy)** — **Critical**  AI literacy is knowing enough about AI to question it, not just operate it. Plain AI literacy means knowing how to use AI tools. It means learning to prompt, create automations, and bring AI into your workflows. Critical AI literacy goes further. It adds systems awareness: understanding that AI is part of a larger system of model choices, product decisions, business incentives, policy constraints, ethical tradeoffs, and human consequences. Attitude is the posture that turns AI literacy into critical AI literacy. 
+- **[AI Search Optimization SEO/AIO/GEO](https://karozieminski.substack.com/p/get-cited-ai-search-google-ai-overviews)** — How to get cited and recommended by AI.
+- **[Critical AI Literacy Series 2026](https://karozieminski.substack.com/s/critical-ai-literacy)** — **Critical**  AI literacy is knowing enough about AI to question it, not just operate it. Plain AI literacy means knowing how to use AI tools. It means learning to prompt, create automations, and bring AI into your workflows. Critical AI literacy goes further. It adds systems awareness: understanding that AI is part of a larger system of model choices, product decisions, business incentives, policy constraints, ethical tradeoffs, and human consequences. Attitude is the posture that turns AI literacy into critical AI literacy.
+- **[Awesome Jev Resources](https://github.com/karozi/awesome-jev-resources)** - A curated list of Jev guides, official documentation, and community projects for AI practitioners, product managers, and builders.
 - **[Build Agents](https://karozieminski.substack.com/p/how-to-build-your-first-ai-agent)** — A beginner-friendly visual guide to building your first AI agent in Claude Code, based on questions from my readers.
 - **[Build with AI](https://karozieminski.substack.com/s/build-with-attitude)** — Real builders. Real decisions. 
 - **[Grow a Substack](https://karozieminski.substack.com/s/how-i-substack)** — How I grew Product with Attitude from zero to Bestseller.
