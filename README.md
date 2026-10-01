@@ -3,7 +3,7 @@ Last updated: 21-09-2026
 
 Senior AI Product Manager. Author of [Product with Attitude](https://karozieminski.substack.com/), the Substack Bestseller for AI builders and critical thinkers.
 
-21,000+ subscribers across 147 countries. 
+22,000+ subscribers across 147 countries. 
 
 
 ---
