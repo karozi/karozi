@@ -92,12 +92,10 @@ Claude Code, Perplexity, Replit, n8n, Notion, Figma, Python, JSON-LD, Schema.org
 ## Connect
 
 - **Newsletter:** [Product with Attitude](https://karozieminski.substack.com/) 
-- **Product:** [StackShelf.app](https://stackshelf.app/)
-- **Prompts:** [AttitudeVault.dev](https://attitudevault.dev/)
+- **Portfolio:** [productwithattitude.com](https://productwithattitude.com)
 - **Sponsorships:** [Passionfroot](https://workspace.passionfroot.me/karo-z)
-- **Twitter/X:** [@karozieminski](https://x.com/karozieminski)
+- **Twitter/X:** [@ProductAttitude](https://x.com/ProductAttitude)
 - **LinkedIn:** [Karo Zieminski](https://www.linkedin.com/in/zieminski/)
-- **Dev.to:** [with_attitude](https://dev.to/with_attitude)
 
 ---
 
