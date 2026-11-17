@@ -1,9 +1,9 @@
 # Karo Zieminski
-Last updated: 15-11-2026
+Last updated: 17-11-2026
 
-Senior AI Product Manager. Author of [Product with Attitude](https://karozieminski.substack.com/), the Substack Bestseller for AI builders and critical thinkers.
+Senior AI Product Manager.
 
-Tens of thousands of subscribers in 146 countries (as of 15-11-2026). 
+Product with Attitude is a bestselling AI newsletter for experienced professionals using AI to improve their work or build a business, including product builders, developers, founders, creators, and AI practitioners. It’s read by tens of thousands of people across 146 countries. We build critical AI literacy the only way it sticks: through practice.
 
 
 ---
